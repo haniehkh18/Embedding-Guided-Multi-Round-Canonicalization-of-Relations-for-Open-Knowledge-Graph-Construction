@@ -1,7 +1,5 @@
 # Embedding-Guided, Multi-Round Canonicalization of Relations for Open Knowledge Graph Construction  
 
-*May 2025*  
-
 ---
 
 **Overview**  
@@ -26,7 +24,7 @@ Open Knowledge Graphs (OpenKGs) often contain redundant relation phrases (e.g., 
 
 📌 Canonicalization pipeline:  
 
-![Hybrid Canonicalization Flow](pipeline.png)  
+![Hybrid Canonicalization Flow](Canonicalization%20Pipeline.png)  
 
 ---
 
@@ -38,16 +36,5 @@ Open Knowledge Graphs (OpenKGs) often contain redundant relation phrases (e.g., 
 
 **Resources**  
 - Dataset & code: [GitHub Repository](https://github.com/haniehkh18/Embedding-Guided-Multi-Round-Canonicalization-of-Relations-for-Open-Knowledge-Graph-Construction)  
-- Paper: included in this repo  
 
----
-
-**Citation**  
-```bibtex
-@inproceedings{khorashadizadeh2025canonicalization,
-  title={Embedding-Guided, Multi-Round Canonicalization of Relations for Open Knowledge Graph Construction},
-  author={Khorashadizadeh, Hanieh and Mihindukulasooriya, Nandana and Ranji, Nilufar and Ezzabady, Morteza and Ieng, Fr{\'e}d{\'e}ric and Groppe, Jinghua and Benamara, Farah and Groppe, Sven},
-  year={2025},
-  booktitle={Proceedings of ...}
-}
 
