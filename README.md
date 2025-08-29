@@ -33,7 +33,7 @@ Steps:
 
 Pipeline figure:  
 
-![EcoRAG Benchmark Pipeline](pipeline.png)  
+![EcoRAG Benchmark Pipeline](EcoRAG Pipeline.png)  
 
 ---
 
