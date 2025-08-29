@@ -52,9 +52,24 @@ Pipeline figure:
 
 **Citation**  
 ```bibtex
-@inproceedings{khorashadizadeh2025ecorag,
-  title={EcoRAG: A Multi-Hop Economic QA Benchmark for Retrieval-Augmented Generation Using Knowledge Graphs},
-  author={Khorashadizadeh, Hanieh and Tiwari, Sanju and Benamara, Farah and Mihindukulasooriya, Nandana and Groppe, Jinghua and Sahri, Soror and Ezzabady, Morteza and Ieng, Fr{\'e}d{\'e}ric and Groppe, Sven},
-  year={2025},
-  booktitle={Proceedings of ...}
+@InProceedings{10.1007/978-3-031-97144-0_15,
+author="Khorashadizadeh, Hanieh
+and Tiwari, Sanju
+and Benamara, Farah
+and Mihindukulasooriya, Nandana
+and Groppe, Jinghua
+and Sahri, Soror
+and Ezzabady, Morteza
+and Ieng, Fr{\'e}d{\'e}ric
+and Groppe, Sven",
+editor="Ichise, Ryutaro",
+title="EcoRAG: A Multi-hop Economic QA Benchmark for Retrieval Augmented Generation Using Knowledge Graphs",
+booktitle="Natural Language Processing and Information Systems",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="163--173",
+abstract="Retrieval-Augmented Generation (RAG) enhances large language models (LLMs) by integrating external knowledge retrieval. However, existing multi-hop RAG benchmarks are limited by shallow reasoning depth, simple retrieval structures, and non-descriptive answers. We introduce EcoRAG, a novel multi-hop economic QA benchmark built on knowledge graphs (KGs). EcoRAG extends retrieval depth to seven-hop reasoning, incorporates complex subgraph structures, and leverages domain-specific economic knowledge. It enables a more realistic evaluation of retrieval and reasoning by bridging the gap between structured knowledge sources and generative models, while also providing a reusable benchmark to advance multi-hop RAG research.",
+isbn="978-3-031-97144-0"
 }
+
